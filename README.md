@@ -1,8 +1,10 @@
 <h1 align="center"> Links tilapa_ftvoficial </h1>
 
 <p align="center">
-Programa exclusivo, aplicado para a facilidade em acessar as informações de Felipe Almeida, tilapa_ftvoficial.
+Programa exclusivo, estudado e aplicado por mim, Guilherme.<br>
+Veja: <a href="https://bit.ly/tilapa_ftvoficial" target="_blank">Acesse o site</a>
 </p>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
